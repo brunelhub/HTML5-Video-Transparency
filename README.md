@@ -49,7 +49,7 @@ Check the demo videos in the `server/videos` folder to understand how the source
 
 Here is an example of how it renders on the page: **[live demo][example-1]**
 
-[example-1]: http://www.video-presenters.com/realisations/jaubalet/
+[example-1]: http://www.france-consulting.fr/
 
 
 ## Options
