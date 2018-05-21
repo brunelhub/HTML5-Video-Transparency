@@ -1,6 +1,6 @@
 # Video Presentation - HTML5 videos with alpha channel transparency
 
-** This small package allows you to display videos with transparency on a web page. Usefull if you want to display a web presenter on your home page for example **
+**This small package allows you to display videos with transparency on a web page. Usefull if you want to display a web presenter on your home page for example**
 
 ---
 
@@ -8,7 +8,7 @@
 
 1. Download the files.
 
-2. Integrate the script 'vpclient.js' to the client website.
+2. Integrate the script `vpclient.js` to the client website.
 	- by loading it 
         ```html 
         <script src="js/vpclient.js"></script> 
@@ -35,8 +35,8 @@
 4. Add the files `vpserver.js` and `vpinclude.html` to a folder on the server.
     It might be on the same domain or on a different domain (as long as the server is allowed to serve files to the domain where the request originated from).
 
-    - **/folder/vpinclude.html**
-    - **/folder/js/vpserver.js**
+    - /folder/**vpinclude.html**
+    - /folder/**js/vpserver.js**
 	
 	
 
@@ -45,7 +45,11 @@
 
 The script requires the alpha information to be added underneath the RGB track, and to be the same size as the original video. The white part of the video represents what will be displayed (visible) and the black part represents what will be hidden.
 
-Check the demo videos in the 'server/videos' folder to understand how the source videos should look like.
+Check the demo videos in the `server/videos` folder to understand how the source videos should look like.
+
+Here is an example of how it renders on the page: **[live demo][example-1]**
+
+[example-1]: http://www.video-presenters.com/realisations/jaubalet/
 
 
 ## Options
