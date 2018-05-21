@@ -1,6 +1,6 @@
 # Video Presentation - HTML5 videos with alpha channel transparency
 
-**This small package allows you to display videos with transparency on a web page. Usefull if you want to display a web presenter on your home page for example**
+**This small package allows you to display videos with transparency on a web page.**
 
 ---
 
